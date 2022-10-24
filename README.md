@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **musharrat1998@gmail.com**
 
+- 📄 Know about my experiences -<a href="https://drive.google.com/file/d/1wg1q36Gh0HJreAyRZ1iZ2ZgBh-Q6cW7J/view?usp=sharing"> Resume </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/musharrat-jaha-baig-a53a511a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/musharrat-jaha-baig-a53a511a5/" height="30" width="40" /></a>
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mush1998&show_icons=true&locale=en&theme=radical" alt="mush1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mush1998&theme=radical" alt="mush1998" /></p>
-
